@@ -8,7 +8,7 @@ This package is designed to help Windows users set up a cleaner Claude Desktop l
 
 The paid ZIP is available here:
 
-[https://snoopybooks.gumroad.com/l/claude-desktop-launcher-fix](url)
+https://snoopybooks.gumroad.com/l/claude-desktop-launcher-fix
 
 ## What this public GitHub page is for
 
