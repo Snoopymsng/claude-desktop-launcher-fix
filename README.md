@@ -4,7 +4,7 @@ A beginner-friendly Windows helper package for people who keep clicking Claude D
 
 This package is designed to help Windows users set up a cleaner Claude Desktop launch workflow and avoid confusion between Claude Desktop and Claude web.
 
-## Buy the full download
+## Buy the full download for £4 (sterling)
 
 The paid ZIP is available here:
 
